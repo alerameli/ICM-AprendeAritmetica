@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ICM-AprendeAritmetica</string>
+    <string name="txtEmpezar">¡A jugar!</string>
+    <string name="txtReglas">Reglas</string>
+    <string name="txtSalir">Salir</string>
+    <string name="txtSuma">Suma</string>
+    <string name="txtResta">Resta</string>
+    <string name="txtMulti">Multiplicacion</string>
+    <string name="txtDivision">Division</string>
+    <string name="txtTerminar">¡Terminar!</string>
+    <string name="txtVamos">¡Vamos!</string>
+    <string name="txtSeleccion">Selecciona una operacion</string>
+    <string name="txtResultado">Resultado</string>
+    <string name="txtEnviar">Enviar</string>
+    <string name="txtOtraSuma">¡Otra suma!</string>
+    <string name="txtCambio">Cambio de operacion</string>
+    <string name="txtOtraResta">¡Otra resta!</string>
+    <string name="txtCociente">Cociente ---></string>
+    <string name="txtResiduo">Residuo ---></string>
+    <string name="txtOtraDivision">¡Otra division!</string>
+    <string name="txtOtraMulti">¡Otra multiplicación!</string>
+    <string name="txtPuntuacion">Puntuacion</string>
+    <string name="txtExplicacion">Maxima puntuacion posible: 12 puntos</string>
+    <string name="txtPerfecto">¡Felicidades, obtuviste una puntuacion perfecta!</string>
+    <string name="txtAlto">¡Muy bien, tuviste puntuacion alta!</string>
+    <string name="txtMedio">Nada mal, eres bueno. ¡Recuerda estudiar para superarte!</string>
+    <string name="txtBajo">Obtuviste una puntuacion baja. Hay que ponerse a estudiar</string>
+    <string name="txtInicio">Inicio</string>
+</resources>
